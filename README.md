@@ -96,5 +96,3 @@ The description emphasizes:
 - Professional default UIs
 - Enterprise-like features (server dashboard)
 - Mobile development use case
-
-Would you like me to generate actual screenshots of the default interfase for the placenolder links?
