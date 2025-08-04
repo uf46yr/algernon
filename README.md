@@ -80,7 +80,6 @@ PRs welcome! Features to add:
 Light enough for Raspberry Pi, powerful enough for prototyping 💡
 ```
 
-Key highlights in this README:
 
 1. Badges - Visual markers for compatibility
 2. Features - Emoji-enhanced list of core capabilities
